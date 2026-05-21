@@ -1,0 +1,5 @@
+{
+  "name": "SubGenie - AI Video Subtitle Generator",
+  "description": "Automatically generate accurate subtitles and captions for your videos using Google's Gemini AI.",
+  "requestFramePermissions": []
+}
